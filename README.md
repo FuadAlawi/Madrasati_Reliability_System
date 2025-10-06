@@ -59,6 +59,7 @@ Latency p50=3ms p95=6ms p99=17ms
 - `ChaosMonkey`: occasionally toggles node health/failure rate.
 - `Metrics`: tracks outcomes and computes percentile latencies.
 
+## Humanization Checklist Application
 
 | Feature | Status |
 |---|---|
