@@ -60,3 +60,20 @@ Latency p50=3ms p95=6ms p99=17ms
 - `Metrics`: tracks outcomes and computes percentile latencies.
 
 
+| Feature | Status |
+|---|---|
+| Teacher Video Introductions | Not Applied |
+| Arabic Interface & Islamic Values | Applied |
+| Mobile-First Responsive Design | Applied |
+| Screen Reader Compatibility | Not Applied |
+| Intuitive, Clean UI | Not Applied |
+| Voice/Video Feedback on Assignments | Not Applied |
+| Student Welcome Survey | Not Applied |
+| Discussion Forums & Social Learning | Applied |
+| Gamification: Tracking & Achievements | Not Applied |
+| Real-Time Support & Chat | Applied |
+| Robust Search & Filtering | Applied |
+| Offline Content Access | Applied |
+| Multiple Assessment Formats | Applied |
+| Data Analytics & Progress Tracking | Applied |
+| Security & Privacy Compliance | Applied |
