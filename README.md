@@ -1,5 +1,6 @@
 ## Madrasati Reliability Simulation
-Java simulation that models a service with multiple nodes behind a load balancer, circuit breakers, retries with jittered exponential backoff, and a simple chaos monkey. It prints success rate and latency percentiles at the end.
+The **Madrasati Reliability Simulation** is a simple Java application designed to simulate a service with multiple nodes behind a load balancer. It incorporates various reliability mechanisms such as **circuit breakers**, **load balancing**, **retries with jittered exponential backoff**, and a **chaos monkey**. The simulation prints success rates and latency percentiles (p50, p95, p99) at the end.
+
 
 ### Features
 - **Load balancing**: prefers healthier nodes.
